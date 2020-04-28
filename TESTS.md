@@ -1,4 +1,4 @@
-# A description of tests for SENG 265, Spring 2020
+# A description of tests for KWOC in Python
 
 * Test 1
     * input text: in01.txt
